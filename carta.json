@@ -1,0 +1,1193 @@
+{
+ "formato": 1,
+ "zonas": [
+  {
+   "id": 1,
+   "nombre": "Bar",
+   "orden": 1,
+   "activa": 1
+  },
+  {
+   "id": 2,
+   "nombre": "Boliche",
+   "orden": 2,
+   "activa": 1
+  },
+  {
+   "id": 3,
+   "nombre": "VIP",
+   "orden": 3,
+   "activa": 1
+  }
+ ],
+ "familias": [
+  {
+   "id": 1,
+   "zona_id": 1,
+   "nombre": "Promos",
+   "orden": 1,
+   "activa": 0,
+   "seccion": ""
+  },
+  {
+   "id": 2,
+   "zona_id": 1,
+   "nombre": "Tragos y cervezas",
+   "orden": 2,
+   "activa": 0,
+   "seccion": ""
+  },
+  {
+   "id": 3,
+   "zona_id": 1,
+   "nombre": "Sin alcohol",
+   "orden": 3,
+   "activa": 0,
+   "seccion": ""
+  },
+  {
+   "id": 4,
+   "zona_id": 1,
+   "nombre": "Promos",
+   "orden": 4,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 5,
+   "zona_id": 1,
+   "nombre": "Gin Tonic",
+   "orden": 5,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 6,
+   "zona_id": 1,
+   "nombre": "Mojitos",
+   "orden": 6,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 7,
+   "zona_id": 1,
+   "nombre": "Caipirinhas y Caipiroskas",
+   "orden": 7,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 8,
+   "zona_id": 1,
+   "nombre": "Clásicos y Aperitivos",
+   "orden": 8,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 9,
+   "zona_id": 1,
+   "nombre": "Botellas",
+   "orden": 9,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 10,
+   "zona_id": 1,
+   "nombre": "Champagnes",
+   "orden": 10,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 11,
+   "zona_id": 1,
+   "nombre": "Cervezas",
+   "orden": 11,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 12,
+   "zona_id": 1,
+   "nombre": "Vinos",
+   "orden": 12,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 13,
+   "zona_id": 1,
+   "nombre": "Sin Alcohol",
+   "orden": 13,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 14,
+   "zona_id": 2,
+   "nombre": "Promos",
+   "orden": 4,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 15,
+   "zona_id": 2,
+   "nombre": "Gin Tonic",
+   "orden": 5,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 16,
+   "zona_id": 2,
+   "nombre": "Mojitos",
+   "orden": 6,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 17,
+   "zona_id": 2,
+   "nombre": "Caipirinhas y Caipiroskas",
+   "orden": 7,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 18,
+   "zona_id": 2,
+   "nombre": "Clásicos y Aperitivos",
+   "orden": 8,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 19,
+   "zona_id": 2,
+   "nombre": "Botellas",
+   "orden": 9,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 20,
+   "zona_id": 2,
+   "nombre": "Champagnes",
+   "orden": 10,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 21,
+   "zona_id": 2,
+   "nombre": "Cervezas",
+   "orden": 11,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 22,
+   "zona_id": 2,
+   "nombre": "Vinos",
+   "orden": 12,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 23,
+   "zona_id": 2,
+   "nombre": "Sin Alcohol",
+   "orden": 13,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 24,
+   "zona_id": 3,
+   "nombre": "Promos",
+   "orden": 4,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 25,
+   "zona_id": 3,
+   "nombre": "Gin Tonic",
+   "orden": 5,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 26,
+   "zona_id": 3,
+   "nombre": "Mojitos",
+   "orden": 6,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 27,
+   "zona_id": 3,
+   "nombre": "Caipirinhas y Caipiroskas",
+   "orden": 7,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 28,
+   "zona_id": 3,
+   "nombre": "Clásicos y Aperitivos",
+   "orden": 8,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 29,
+   "zona_id": 3,
+   "nombre": "Botellas",
+   "orden": 9,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 30,
+   "zona_id": 3,
+   "nombre": "Champagnes",
+   "orden": 10,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 31,
+   "zona_id": 3,
+   "nombre": "Cervezas",
+   "orden": 11,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 32,
+   "zona_id": 3,
+   "nombre": "Vinos",
+   "orden": 12,
+   "activa": 1,
+   "seccion": ""
+  },
+  {
+   "id": 33,
+   "zona_id": 3,
+   "nombre": "Sin Alcohol",
+   "orden": 13,
+   "activa": 1,
+   "seccion": ""
+  }
+ ],
+ "productos": [
+  {
+   "id": 1,
+   "familia_id": 1,
+   "nombre": "Promo Vodka",
+   "precio": 12000,
+   "orden": 1,
+   "activo": 0
+  },
+  {
+   "id": 2,
+   "familia_id": 1,
+   "nombre": "Promo Fernet",
+   "precio": 10000,
+   "orden": 2,
+   "activo": 0
+  },
+  {
+   "id": 3,
+   "familia_id": 2,
+   "nombre": "Fernet con Coca",
+   "precio": 6000,
+   "orden": 1,
+   "activo": 0
+  },
+  {
+   "id": 4,
+   "familia_id": 2,
+   "nombre": "Cerveza",
+   "precio": 4500,
+   "orden": 2,
+   "activo": 0
+  },
+  {
+   "id": 5,
+   "familia_id": 3,
+   "nombre": "Agua",
+   "precio": 1500,
+   "orden": 1,
+   "activo": 0
+  },
+  {
+   "id": 6,
+   "familia_id": 4,
+   "nombre": "Smirnoff + Speed",
+   "precio": 50000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 7,
+   "familia_id": 4,
+   "nombre": "Smirnoff + Pomelo",
+   "precio": 50000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 8,
+   "familia_id": 4,
+   "nombre": "Absolut + Red Bull",
+   "precio": 75000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 9,
+   "familia_id": 5,
+   "nombre": "Gordon’s · Clásico con limón",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 10,
+   "familia_id": 5,
+   "nombre": "Gordon’s · Pomelo & Romero",
+   "precio": 8000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 11,
+   "familia_id": 5,
+   "nombre": "Gordon’s · Frutos Rojos",
+   "precio": 8000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 12,
+   "familia_id": 5,
+   "nombre": "Gordon’s · Pepino & Limón",
+   "precio": 8000,
+   "orden": 4,
+   "activo": 1
+  },
+  {
+   "id": 13,
+   "familia_id": 5,
+   "nombre": "Beefeater · Clásico con limón",
+   "precio": 10000,
+   "orden": 5,
+   "activo": 1
+  },
+  {
+   "id": 14,
+   "familia_id": 5,
+   "nombre": "Beefeater · Pomelo & Romero",
+   "precio": 10000,
+   "orden": 6,
+   "activo": 1
+  },
+  {
+   "id": 15,
+   "familia_id": 5,
+   "nombre": "Beefeater · Frutos Rojos",
+   "precio": 10000,
+   "orden": 7,
+   "activo": 1
+  },
+  {
+   "id": 16,
+   "familia_id": 5,
+   "nombre": "Beefeater · Pepino & Limón",
+   "precio": 10000,
+   "orden": 8,
+   "activo": 1
+  },
+  {
+   "id": 17,
+   "familia_id": 6,
+   "nombre": "Mojito Clásico",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 18,
+   "familia_id": 6,
+   "nombre": "Beer Mojito",
+   "precio": 13000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 19,
+   "familia_id": 7,
+   "nombre": "Caipirinha de limón o lima",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 20,
+   "familia_id": 7,
+   "nombre": "Caipiroska de limón o lima",
+   "precio": 8000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 21,
+   "familia_id": 8,
+   "nombre": "Negroni",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 22,
+   "familia_id": 8,
+   "nombre": "Aperol Spritz",
+   "precio": 10000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 23,
+   "familia_id": 8,
+   "nombre": "Campari Orange",
+   "precio": 8000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 24,
+   "familia_id": 8,
+   "nombre": "Campari Tonic",
+   "precio": 8000,
+   "orden": 4,
+   "activo": 1
+  },
+  {
+   "id": 25,
+   "familia_id": 8,
+   "nombre": "Cuba Libre",
+   "precio": 8000,
+   "orden": 5,
+   "activo": 1
+  },
+  {
+   "id": 26,
+   "familia_id": 8,
+   "nombre": "Fernet con Coca-Cola",
+   "precio": 8000,
+   "orden": 6,
+   "activo": 1
+  },
+  {
+   "id": 27,
+   "familia_id": 8,
+   "nombre": "Gancia Batido",
+   "precio": 8000,
+   "orden": 7,
+   "activo": 1
+  },
+  {
+   "id": 28,
+   "familia_id": 8,
+   "nombre": "Medida de Absolut",
+   "precio": 10000,
+   "orden": 8,
+   "activo": 1
+  },
+  {
+   "id": 29,
+   "familia_id": 8,
+   "nombre": "Medida de Smirnoff",
+   "precio": 7000,
+   "orden": 9,
+   "activo": 1
+  },
+  {
+   "id": 30,
+   "familia_id": 9,
+   "nombre": "Vodka Absolut",
+   "precio": 55000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 31,
+   "familia_id": 9,
+   "nombre": "Vodka Smirnoff",
+   "precio": 40000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 32,
+   "familia_id": 10,
+   "nombre": "Baron B Brut",
+   "precio": 70000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 33,
+   "familia_id": 10,
+   "nombre": "Salentein Brut",
+   "precio": 40000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 34,
+   "familia_id": 10,
+   "nombre": "Salentein Rosé",
+   "precio": 40000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 35,
+   "familia_id": 10,
+   "nombre": "Chandon Délice",
+   "precio": 50000,
+   "orden": 4,
+   "activo": 1
+  },
+  {
+   "id": 36,
+   "familia_id": 11,
+   "nombre": "Corona",
+   "precio": 7000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 37,
+   "familia_id": 12,
+   "nombre": "Santa Julia dulce",
+   "precio": 20000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 38,
+   "familia_id": 13,
+   "nombre": "Agua",
+   "precio": 4000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 39,
+   "familia_id": 13,
+   "nombre": "Speed",
+   "precio": 4000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 40,
+   "familia_id": 13,
+   "nombre": "Red Bull",
+   "precio": 6000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 41,
+   "familia_id": 14,
+   "nombre": "Smirnoff + Speed",
+   "precio": 50000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 42,
+   "familia_id": 14,
+   "nombre": "Smirnoff + Pomelo",
+   "precio": 50000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 43,
+   "familia_id": 14,
+   "nombre": "Absolut + Red Bull",
+   "precio": 75000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 44,
+   "familia_id": 15,
+   "nombre": "Gordon’s · Clásico con limón",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 45,
+   "familia_id": 15,
+   "nombre": "Gordon’s · Pomelo & Romero",
+   "precio": 8000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 46,
+   "familia_id": 15,
+   "nombre": "Gordon’s · Frutos Rojos",
+   "precio": 8000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 47,
+   "familia_id": 15,
+   "nombre": "Gordon’s · Pepino & Limón",
+   "precio": 8000,
+   "orden": 4,
+   "activo": 1
+  },
+  {
+   "id": 48,
+   "familia_id": 15,
+   "nombre": "Beefeater · Clásico con limón",
+   "precio": 10000,
+   "orden": 5,
+   "activo": 1
+  },
+  {
+   "id": 49,
+   "familia_id": 15,
+   "nombre": "Beefeater · Pomelo & Romero",
+   "precio": 10000,
+   "orden": 6,
+   "activo": 1
+  },
+  {
+   "id": 50,
+   "familia_id": 15,
+   "nombre": "Beefeater · Frutos Rojos",
+   "precio": 10000,
+   "orden": 7,
+   "activo": 1
+  },
+  {
+   "id": 51,
+   "familia_id": 15,
+   "nombre": "Beefeater · Pepino & Limón",
+   "precio": 10000,
+   "orden": 8,
+   "activo": 1
+  },
+  {
+   "id": 52,
+   "familia_id": 16,
+   "nombre": "Mojito Clásico",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 53,
+   "familia_id": 16,
+   "nombre": "Beer Mojito",
+   "precio": 13000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 54,
+   "familia_id": 17,
+   "nombre": "Caipirinha de limón o lima",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 55,
+   "familia_id": 17,
+   "nombre": "Caipiroska de limón o lima",
+   "precio": 8000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 56,
+   "familia_id": 18,
+   "nombre": "Negroni",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 57,
+   "familia_id": 18,
+   "nombre": "Aperol Spritz",
+   "precio": 10000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 58,
+   "familia_id": 18,
+   "nombre": "Campari Orange",
+   "precio": 8000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 59,
+   "familia_id": 18,
+   "nombre": "Campari Tonic",
+   "precio": 8000,
+   "orden": 4,
+   "activo": 1
+  },
+  {
+   "id": 60,
+   "familia_id": 18,
+   "nombre": "Cuba Libre",
+   "precio": 8000,
+   "orden": 5,
+   "activo": 1
+  },
+  {
+   "id": 61,
+   "familia_id": 18,
+   "nombre": "Fernet con Coca-Cola",
+   "precio": 8000,
+   "orden": 6,
+   "activo": 1
+  },
+  {
+   "id": 62,
+   "familia_id": 18,
+   "nombre": "Gancia Batido",
+   "precio": 8000,
+   "orden": 7,
+   "activo": 1
+  },
+  {
+   "id": 63,
+   "familia_id": 18,
+   "nombre": "Medida de Absolut",
+   "precio": 10000,
+   "orden": 8,
+   "activo": 1
+  },
+  {
+   "id": 64,
+   "familia_id": 18,
+   "nombre": "Medida de Smirnoff",
+   "precio": 7000,
+   "orden": 9,
+   "activo": 1
+  },
+  {
+   "id": 65,
+   "familia_id": 19,
+   "nombre": "Vodka Absolut",
+   "precio": 55000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 66,
+   "familia_id": 19,
+   "nombre": "Vodka Smirnoff",
+   "precio": 40000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 67,
+   "familia_id": 20,
+   "nombre": "Baron B Brut",
+   "precio": 70000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 68,
+   "familia_id": 20,
+   "nombre": "Salentein Brut",
+   "precio": 40000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 69,
+   "familia_id": 20,
+   "nombre": "Salentein Rosé",
+   "precio": 40000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 70,
+   "familia_id": 20,
+   "nombre": "Chandon Délice",
+   "precio": 50000,
+   "orden": 4,
+   "activo": 1
+  },
+  {
+   "id": 71,
+   "familia_id": 21,
+   "nombre": "Corona",
+   "precio": 7000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 72,
+   "familia_id": 22,
+   "nombre": "Santa Julia dulce",
+   "precio": 20000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 73,
+   "familia_id": 23,
+   "nombre": "Agua",
+   "precio": 4000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 74,
+   "familia_id": 23,
+   "nombre": "Speed",
+   "precio": 4000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 75,
+   "familia_id": 23,
+   "nombre": "Red Bull",
+   "precio": 6000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 76,
+   "familia_id": 24,
+   "nombre": "Smirnoff + Speed",
+   "precio": 50000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 77,
+   "familia_id": 24,
+   "nombre": "Smirnoff + Pomelo",
+   "precio": 50000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 78,
+   "familia_id": 24,
+   "nombre": "Absolut + Red Bull",
+   "precio": 75000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 79,
+   "familia_id": 25,
+   "nombre": "Gordon’s · Clásico con limón",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 80,
+   "familia_id": 25,
+   "nombre": "Gordon’s · Pomelo & Romero",
+   "precio": 8000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 81,
+   "familia_id": 25,
+   "nombre": "Gordon’s · Frutos Rojos",
+   "precio": 8000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 82,
+   "familia_id": 25,
+   "nombre": "Gordon’s · Pepino & Limón",
+   "precio": 8000,
+   "orden": 4,
+   "activo": 1
+  },
+  {
+   "id": 83,
+   "familia_id": 25,
+   "nombre": "Beefeater · Clásico con limón",
+   "precio": 10000,
+   "orden": 5,
+   "activo": 1
+  },
+  {
+   "id": 84,
+   "familia_id": 25,
+   "nombre": "Beefeater · Pomelo & Romero",
+   "precio": 10000,
+   "orden": 6,
+   "activo": 1
+  },
+  {
+   "id": 85,
+   "familia_id": 25,
+   "nombre": "Beefeater · Frutos Rojos",
+   "precio": 10000,
+   "orden": 7,
+   "activo": 1
+  },
+  {
+   "id": 86,
+   "familia_id": 25,
+   "nombre": "Beefeater · Pepino & Limón",
+   "precio": 10000,
+   "orden": 8,
+   "activo": 1
+  },
+  {
+   "id": 87,
+   "familia_id": 26,
+   "nombre": "Mojito Clásico",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 88,
+   "familia_id": 26,
+   "nombre": "Beer Mojito",
+   "precio": 13000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 89,
+   "familia_id": 27,
+   "nombre": "Caipirinha de limón o lima",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 90,
+   "familia_id": 27,
+   "nombre": "Caipiroska de limón o lima",
+   "precio": 8000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 91,
+   "familia_id": 28,
+   "nombre": "Negroni",
+   "precio": 8000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 92,
+   "familia_id": 28,
+   "nombre": "Aperol Spritz",
+   "precio": 10000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 93,
+   "familia_id": 28,
+   "nombre": "Campari Orange",
+   "precio": 8000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 94,
+   "familia_id": 28,
+   "nombre": "Campari Tonic",
+   "precio": 8000,
+   "orden": 4,
+   "activo": 1
+  },
+  {
+   "id": 95,
+   "familia_id": 28,
+   "nombre": "Cuba Libre",
+   "precio": 8000,
+   "orden": 5,
+   "activo": 1
+  },
+  {
+   "id": 96,
+   "familia_id": 28,
+   "nombre": "Fernet con Coca-Cola",
+   "precio": 8000,
+   "orden": 6,
+   "activo": 1
+  },
+  {
+   "id": 97,
+   "familia_id": 28,
+   "nombre": "Gancia Batido",
+   "precio": 8000,
+   "orden": 7,
+   "activo": 1
+  },
+  {
+   "id": 98,
+   "familia_id": 28,
+   "nombre": "Medida de Absolut",
+   "precio": 10000,
+   "orden": 8,
+   "activo": 1
+  },
+  {
+   "id": 99,
+   "familia_id": 28,
+   "nombre": "Medida de Smirnoff",
+   "precio": 7000,
+   "orden": 9,
+   "activo": 1
+  },
+  {
+   "id": 100,
+   "familia_id": 29,
+   "nombre": "Vodka Absolut",
+   "precio": 55000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 101,
+   "familia_id": 29,
+   "nombre": "Vodka Smirnoff",
+   "precio": 40000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 102,
+   "familia_id": 30,
+   "nombre": "Baron B Brut",
+   "precio": 70000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 103,
+   "familia_id": 30,
+   "nombre": "Salentein Brut",
+   "precio": 40000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 104,
+   "familia_id": 30,
+   "nombre": "Salentein Rosé",
+   "precio": 40000,
+   "orden": 3,
+   "activo": 1
+  },
+  {
+   "id": 105,
+   "familia_id": 30,
+   "nombre": "Chandon Délice",
+   "precio": 50000,
+   "orden": 4,
+   "activo": 1
+  },
+  {
+   "id": 106,
+   "familia_id": 31,
+   "nombre": "Corona",
+   "precio": 7000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 107,
+   "familia_id": 32,
+   "nombre": "Santa Julia dulce",
+   "precio": 20000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 108,
+   "familia_id": 33,
+   "nombre": "Agua",
+   "precio": 4000,
+   "orden": 1,
+   "activo": 1
+  },
+  {
+   "id": 109,
+   "familia_id": 33,
+   "nombre": "Speed",
+   "precio": 4000,
+   "orden": 2,
+   "activo": 1
+  },
+  {
+   "id": 110,
+   "familia_id": 33,
+   "nombre": "Red Bull",
+   "precio": 6000,
+   "orden": 3,
+   "activo": 1
+  }
+ ],
+ "entradas": [
+  {
+   "id": 1,
+   "nombre": "General",
+   "precio": 0,
+   "orden": 1,
+   "activo": 0
+  },
+  {
+   "id": 2,
+   "nombre": "Antique",
+   "precio": 10000,
+   "orden": 2,
+   "activo": 1
+  }
+ ],
+ "config": {
+  "nombre_bar": "Antique",
+  "precio_vaso": "30000"
+ },
+ "version": 1790358210463,
+ "publicado": "2026-09-25T14:43:30"
+}
