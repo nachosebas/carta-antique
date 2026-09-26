@@ -218,7 +218,7 @@
    "zona_id": 3,
    "nombre": "Gin Tonic",
    "orden": 5,
-   "activa": 1,
+   "activa": 0,
    "seccion": ""
   },
   {
@@ -917,7 +917,7 @@
    "nombre": "Gordon’s · Clásico con limón",
    "precio": 8000,
    "orden": 1,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 80,
@@ -925,7 +925,7 @@
    "nombre": "Gordon’s · Pomelo & Romero",
    "precio": 8000,
    "orden": 2,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 81,
@@ -933,7 +933,7 @@
    "nombre": "Gordon’s · Frutos Rojos",
    "precio": 8000,
    "orden": 3,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 82,
@@ -941,7 +941,7 @@
    "nombre": "Gordon’s · Pepino & Limón",
    "precio": 8000,
    "orden": 4,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 83,
@@ -949,7 +949,7 @@
    "nombre": "Beefeater · Clásico con limón",
    "precio": 10000,
    "orden": 5,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 84,
@@ -957,7 +957,7 @@
    "nombre": "Beefeater · Pomelo & Romero",
    "precio": 10000,
    "orden": 6,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 85,
@@ -965,7 +965,7 @@
    "nombre": "Beefeater · Frutos Rojos",
    "precio": 10000,
    "orden": 7,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 86,
@@ -973,7 +973,7 @@
    "nombre": "Beefeater · Pepino & Limón",
    "precio": 10000,
    "orden": 8,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 87,
@@ -1188,6 +1188,6 @@
   "nombre_bar": "Antique",
   "precio_vaso": "3000"
  },
- "version": 1790437451171,
- "publicado": "2026-09-26T12:44:11"
+ "version": 1790437474826,
+ "publicado": "2026-09-26T12:44:34"
 }
