@@ -138,7 +138,7 @@
    "zona_id": 2,
    "nombre": "Gin Tonic",
    "orden": 5,
-   "activa": 1,
+   "activa": 0,
    "seccion": ""
   },
   {
@@ -146,7 +146,7 @@
    "zona_id": 2,
    "nombre": "Mojitos",
    "orden": 6,
-   "activa": 1,
+   "activa": 0,
    "seccion": ""
   },
   {
@@ -154,7 +154,7 @@
    "zona_id": 2,
    "nombre": "Caipirinhas y Caipiroskas",
    "orden": 7,
-   "activa": 1,
+   "activa": 0,
    "seccion": ""
   },
   {
@@ -162,7 +162,7 @@
    "zona_id": 2,
    "nombre": "Clásicos y Aperitivos",
    "orden": 8,
-   "activa": 1,
+   "activa": 0,
    "seccion": ""
   },
   {
@@ -170,7 +170,7 @@
    "zona_id": 2,
    "nombre": "Botellas",
    "orden": 9,
-   "activa": 1,
+   "activa": 0,
    "seccion": ""
   },
   {
@@ -627,7 +627,7 @@
    "id": 43,
    "familia_id": 14,
    "nombre": "Absolut + Red Bull",
-   "precio": 75000,
+   "precio": 80000,
    "orden": 3,
    "activo": 1
   },
@@ -637,7 +637,7 @@
    "nombre": "Gordon’s · Clásico con limón",
    "precio": 8000,
    "orden": 1,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 45,
@@ -645,7 +645,7 @@
    "nombre": "Gordon’s · Pomelo & Romero",
    "precio": 8000,
    "orden": 2,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 46,
@@ -653,7 +653,7 @@
    "nombre": "Gordon’s · Frutos Rojos",
    "precio": 8000,
    "orden": 3,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 47,
@@ -661,7 +661,7 @@
    "nombre": "Gordon’s · Pepino & Limón",
    "precio": 8000,
    "orden": 4,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 48,
@@ -669,7 +669,7 @@
    "nombre": "Beefeater · Clásico con limón",
    "precio": 10000,
    "orden": 5,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 49,
@@ -677,7 +677,7 @@
    "nombre": "Beefeater · Pomelo & Romero",
    "precio": 10000,
    "orden": 6,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 50,
@@ -685,7 +685,7 @@
    "nombre": "Beefeater · Frutos Rojos",
    "precio": 10000,
    "orden": 7,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 51,
@@ -693,7 +693,7 @@
    "nombre": "Beefeater · Pepino & Limón",
    "precio": 10000,
    "orden": 8,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 52,
@@ -701,7 +701,7 @@
    "nombre": "Mojito Clásico",
    "precio": 8000,
    "orden": 1,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 53,
@@ -709,7 +709,7 @@
    "nombre": "Beer Mojito",
    "precio": 13000,
    "orden": 2,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 54,
@@ -717,7 +717,7 @@
    "nombre": "Caipirinha de limón o lima",
    "precio": 8000,
    "orden": 1,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 55,
@@ -725,7 +725,7 @@
    "nombre": "Caipiroska de limón o lima",
    "precio": 8000,
    "orden": 2,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 56,
@@ -733,7 +733,7 @@
    "nombre": "Negroni",
    "precio": 8000,
    "orden": 1,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 57,
@@ -741,7 +741,7 @@
    "nombre": "Aperol Spritz",
    "precio": 10000,
    "orden": 2,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 58,
@@ -749,7 +749,7 @@
    "nombre": "Campari Orange",
    "precio": 8000,
    "orden": 3,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 59,
@@ -757,7 +757,7 @@
    "nombre": "Campari Tonic",
    "precio": 8000,
    "orden": 4,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 60,
@@ -765,7 +765,7 @@
    "nombre": "Cuba Libre",
    "precio": 8000,
    "orden": 5,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 61,
@@ -773,7 +773,7 @@
    "nombre": "Fernet con Coca-Cola",
    "precio": 8000,
    "orden": 6,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 62,
@@ -781,7 +781,7 @@
    "nombre": "Gancia Batido",
    "precio": 8000,
    "orden": 7,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 63,
@@ -789,7 +789,7 @@
    "nombre": "Medida de Absolut",
    "precio": 10000,
    "orden": 8,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 64,
@@ -797,7 +797,7 @@
    "nombre": "Medida de Smirnoff",
    "precio": 7000,
    "orden": 9,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 65,
@@ -805,7 +805,7 @@
    "nombre": "Vodka Absolut",
    "precio": 55000,
    "orden": 1,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 66,
@@ -813,7 +813,7 @@
    "nombre": "Vodka Smirnoff",
    "precio": 40000,
    "orden": 2,
-   "activo": 1
+   "activo": 0
   },
   {
    "id": 67,
@@ -1188,7 +1188,6 @@
   "nombre_bar": "Antique",
   "precio_vaso": "3000"
  },
- "version": 1790438113707,
- "publicado": "2026-09-26T12:55:13",
- "restaurado_de": "version publicada el 26/09 a las 12:43"
+ "version": 1790439242334,
+ "publicado": "2026-09-26T13:14:02"
 }
