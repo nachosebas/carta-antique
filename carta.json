@@ -907,7 +907,7 @@
    "id": 78,
    "familia_id": 24,
    "nombre": "Absolut + Red Bull",
-   "precio": 75000,
+   "precio": 80,
    "orden": 3,
    "activo": 1
   },
@@ -1188,6 +1188,6 @@
   "nombre_bar": "Antique",
   "precio_vaso": "3000"
  },
- "version": 1790437474826,
- "publicado": "2026-09-26T12:44:34"
+ "version": 1790437525835,
+ "publicado": "2026-09-26T12:45:25"
 }
