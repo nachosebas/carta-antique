@@ -320,6 +320,15 @@
    "activa": 1,
    "seccion": "",
    "oculta": 0
+  },
+  {
+   "id": 34,
+   "zona_id": 1,
+   "nombre": "jarras",
+   "orden": 14,
+   "activa": 1,
+   "seccion": "",
+   "oculta": 0
   }
  ],
  "productos": [
@@ -1312,6 +1321,24 @@
    "orden": 3,
    "activo": 1,
    "oculto": 0
+  },
+  {
+   "id": 111,
+   "familia_id": 34,
+   "nombre": "Vodka",
+   "precio": 13000,
+   "orden": 1,
+   "activo": 1,
+   "oculto": 0
+  },
+  {
+   "id": 112,
+   "familia_id": 34,
+   "nombre": "Fernet",
+   "precio": 13000,
+   "orden": 2,
+   "activo": 1,
+   "oculto": 0
   }
  ],
  "entradas": [
@@ -1334,6 +1361,6 @@
   "nombre_bar": "Antique",
   "precio_vaso": "3000"
  },
- "version": 1790440377914,
- "publicado": "2026-09-26T13:32:57"
+ "version": 1790485519553,
+ "publicado": "2026-09-27T02:05:19"
 }
