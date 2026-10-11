@@ -1352,7 +1352,7 @@
   {
    "id": 2,
    "nombre": "Antique",
-   "precio": 10000,
+   "precio": 14000,
    "orden": 2,
    "activo": 1
   }
@@ -1361,6 +1361,6 @@
   "nombre_bar": "Antique",
   "precio_vaso": "3000"
  },
- "version": 1790485519553,
- "publicado": "2026-09-27T02:05:19"
+ "version": 1791689040287,
+ "publicado": "2026-10-11T00:24:00"
 }
