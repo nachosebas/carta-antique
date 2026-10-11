@@ -85,7 +85,7 @@
    "orden": 7,
    "activa": 1,
    "seccion": "",
-   "oculta": 0
+   "oculta": 1
   },
   {
    "id": 8,
@@ -537,7 +537,7 @@
    "precio": 8000,
    "orden": 3,
    "activo": 1,
-   "oculto": 0
+   "oculto": 1
   },
   {
    "id": 24,
@@ -564,7 +564,7 @@
    "precio": 8000,
    "orden": 6,
    "activo": 1,
-   "oculto": 0
+   "oculto": 1
   },
   {
    "id": 27,
@@ -573,7 +573,7 @@
    "precio": 8000,
    "orden": 7,
    "activo": 1,
-   "oculto": 0
+   "oculto": 1
   },
   {
    "id": 28,
@@ -582,7 +582,7 @@
    "precio": 10000,
    "orden": 8,
    "activo": 1,
-   "oculto": 0
+   "oculto": 1
   },
   {
    "id": 29,
@@ -591,7 +591,7 @@
    "precio": 7000,
    "orden": 9,
    "activo": 1,
-   "oculto": 0
+   "oculto": 1
   },
   {
    "id": 30,
@@ -1361,6 +1361,6 @@
   "nombre_bar": "Antique",
   "precio_vaso": "3000"
  },
- "version": 1791689040287,
- "publicado": "2026-10-11T00:24:00"
+ "version": 1791694407830,
+ "publicado": "2026-10-11T01:53:27"
 }
