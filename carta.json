@@ -329,6 +329,15 @@
    "activa": 1,
    "seccion": "",
    "oculta": 0
+  },
+  {
+   "id": 35,
+   "zona_id": 2,
+   "nombre": "Jarras",
+   "orden": 15,
+   "activa": 1,
+   "seccion": "",
+   "oculta": 0
   }
  ],
  "productos": [
@@ -1348,6 +1357,33 @@
    "orden": 4,
    "activo": 1,
    "oculto": 0
+  },
+  {
+   "id": 114,
+   "familia_id": 35,
+   "nombre": "Fernet",
+   "precio": 14000,
+   "orden": 1,
+   "activo": 1,
+   "oculto": 0
+  },
+  {
+   "id": 115,
+   "familia_id": 35,
+   "nombre": "Vodka + Pomelo",
+   "precio": 13000,
+   "orden": 2,
+   "activo": 1,
+   "oculto": 0
+  },
+  {
+   "id": 116,
+   "familia_id": 35,
+   "nombre": "Vodka + Speed",
+   "precio": 13000,
+   "orden": 3,
+   "activo": 1,
+   "oculto": 0
   }
  ],
  "entradas": [
@@ -1370,6 +1406,6 @@
   "nombre_bar": "Antique",
   "precio_vaso": "3000"
  },
- "version": 1792185854730,
- "publicado": "2026-10-16T18:24:14"
+ "version": 1792186255687,
+ "publicado": "2026-10-16T18:30:55"
 }
