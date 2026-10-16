@@ -1335,8 +1335,17 @@
    "id": 112,
    "familia_id": 34,
    "nombre": "Fernet",
-   "precio": 13000,
+   "precio": 14000,
    "orden": 2,
+   "activo": 1,
+   "oculto": 0
+  },
+  {
+   "id": 113,
+   "familia_id": 14,
+   "nombre": "Fernet + Coca",
+   "precio": 60000,
+   "orden": 4,
    "activo": 1,
    "oculto": 0
   }
@@ -1361,6 +1370,6 @@
   "nombre_bar": "Antique",
   "precio_vaso": "3000"
  },
- "version": 1791694407830,
- "publicado": "2026-10-11T01:53:27"
+ "version": 1792185854730,
+ "publicado": "2026-10-16T18:24:14"
 }
