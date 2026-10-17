@@ -1384,6 +1384,15 @@
    "orden": 3,
    "activo": 1,
    "oculto": 0
+  },
+  {
+   "id": 117,
+   "familia_id": 14,
+   "nombre": "Jager + Red Bool",
+   "precio": 120000,
+   "orden": 5,
+   "activo": 1,
+   "oculto": 0
   }
  ],
  "entradas": [
@@ -1406,6 +1415,6 @@
   "nombre_bar": "Antique",
   "precio_vaso": "3000"
  },
- "version": 1792186255687,
- "publicado": "2026-10-16T18:30:55"
+ "version": 1792279419489,
+ "publicado": "2026-10-17T20:23:39"
 }
