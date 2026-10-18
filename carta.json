@@ -669,7 +669,7 @@
    "id": 37,
    "familia_id": 12,
    "nombre": "Santa Julia dulce",
-   "precio": 20000,
+   "precio": 25000,
    "orden": 1,
    "activo": 1,
    "oculto": 0
@@ -1393,6 +1393,15 @@
    "orden": 5,
    "activo": 1,
    "oculto": 0
+  },
+  {
+   "id": 120,
+   "familia_id": 4,
+   "nombre": "Jager+Red Bool",
+   "precio": 120000,
+   "orden": 4,
+   "activo": 1,
+   "oculto": 0
   }
  ],
  "entradas": [
@@ -1415,6 +1424,6 @@
   "nombre_bar": "Antique",
   "precio_vaso": "3000"
  },
- "version": 1792279419489,
- "publicado": "2026-10-17T20:23:39"
+ "version": 1792298433129,
+ "publicado": "2026-10-18T01:40:33"
 }
